@@ -1,0 +1,2 @@
+CSV - Comma separated Values
+Default delimiter is is ',' ( Comma ) other delimiters include '\t'(tab),'|'(pipe)
